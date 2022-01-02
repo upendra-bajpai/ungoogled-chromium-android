@@ -10,5 +10,5 @@
 When opening a new issue, please make sure:
 
 * The issue is not covered in a previous one
-* One problem per issue, do not mix multiple topics in one issue
+* One problem per issue, do not mix multiple topics in one issu
 * Please fill out bug reports with templates. Issues without templates will be closed. Screenshots and logs are also helpful.
