@@ -322,4 +322,3 @@
 * Domain substitution on all non-binary files
 
 # 74.0.3729.169-1
-* First release
